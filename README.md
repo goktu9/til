@@ -8,22 +8,22 @@ I created this repository to consolidate the technical concepts, code snippets, 
 
 My learnings are categorized based on the technologies I use in my active projects:
 
-### 📱 Mobile Development
-* **[React Native](./React-Native)**: Insights from building cross-platform apps using Expo, React Navigation, and Axios (e.g., *Profiles Directory App*).
+### [📱 Mobile Development](./React-Native)
+* **React Native**: Insights from building cross-platform apps using Expo, React Navigation, and Axios (e.g., *Profiles Directory App*).
 
-### 🤖 AI & Machine Learning
-* **[AI Agents](./AI-ML)**: Notes on Multi-Agent Systems and Google ADK (e.g., *MedCase AI*).
-* **[Deep Learning](./AI-ML)**: Research on LSTM, Transformers, and MediaPipe for Sign Language Recognition (e.g., *TIDFlow*).
-* **[ML Algorithms](./AI-ML)**: Usage of XGBoost/LightGBM for anomaly detection.
+### [🤖 AI & Machine Learning](./AI-ML)
+* **AI Agents**: Notes on Multi-Agent Systems and Google ADK (e.g., *MedCase AI*).
+* **Deep Learning**: Research on LSTM, Transformers, and MediaPipe for Sign Language Recognition (e.g., *TIDFlow*).
+* **ML Algorithms**: Usage of XGBoost/LightGBM for anomaly detection.
 
-### 🔐 Cybersecurity
-* **[Network Security](./Cybersecurity)**: Real-time threat detection, IDS, and traffic analysis (e.g., *Graduation Project*).
+### [🔐 Cybersecurity](./Cybersecurity)
+* **Network Security**: Real-time threat detection, IDS, and traffic analysis (e.g., *Graduation Project*).
 
-### ⚙️ Backend & APIs
-* **[FastAPI & Python](./Backend-API)**: Building scalable REST APIs and handling asynchronous operations.
+### [⚙️ Backend & APIs](./Backend-API)
+* **FastAPI & Python**: Building scalable REST APIs and handling asynchronous operations.
 
-### 🛠️ Tools & Methodology
-* **[Academic Writing](./Tools)**: LaTeX tips, formatting standards (e.g., IEEE two-column), and research tools.
+### [🛠️ Tools & Methodology](./tools)
+* **Academic Writing**: LaTeX tips, formatting standards (e.g., IEEE two-column), and research tools.
 
 ---
 

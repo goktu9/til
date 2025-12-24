@@ -22,6 +22,9 @@ My learnings are categorized based on the technologies I use in my active projec
 ### ⚙️ Backend & APIs
 * **[FastAPI & Python](./Backend-API)**: Building scalable REST APIs and handling asynchronous operations.
 
+### 🛠️ Tools & Methodology
+* **[Academic Writing](./Tools)**: LaTeX tips, formatting standards (e.g., IEEE two-column), and research tools.
+
 ---
 
 ### 🚀 Usage

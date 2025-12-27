@@ -9,24 +9,15 @@ I created this repository to consolidate the technical concepts, code snippets, 
 My learnings are categorized based on the technologies I use in my active projects:
 
 ### [📱 Mobile Development](./mobile-development)
-* **React Native**: Insights from building cross-platform apps using Expo, React Navigation, and Axios (e.g., *Profiles Directory App*).
-
-### [🤖 AI & Machine Learning](./ai-ml)
-* **AI Agents**: Notes on Multi-Agent Systems and Google ADK (e.g., *MedCase AI*).
-* **Deep Learning**: Research on LSTM, Transformers, and MediaPipe for Sign Language Recognition (e.g., *TIDFlow*).
-* **ML Algorithms**: Usage of XGBoost/LightGBM for anomaly detection.
-
-### [🔐 Cybersecurity](./cybersecurity)
-* **Network Security**: Real-time threat detection, IDS, and traffic analysis (e.g., *Graduation Project*).
-
-### [⚙️ Backend & APIs](./backend-api)
-* **FastAPI & Python**: Building scalable REST APIs and handling asynchronous operations.
+* **React Native**
+  - [Persisting Auth State with Context API & AsyncStorage](./mobile-development/react-native/persisting-auth-state-context.md)
 
 ### [🛠️ Tools & Methodology](./tools)
-* **Academic Writing** : LaTeX tips, formatting standards (e.g., IEEE two-column), and research tools.
+* **Academic Writing**
+  - [LaTeX Plotting with Pgfplots](./tools/academic-writing/latex-plotting-with-pgfplots.md)
 
 ---
 
 ### 🚀 Usage
 
-I use this repository to document technical challenges, architectural decisions, and practical solutions I encounter during my active projects (such as *MedCase AI* and *TIDFlow*). Each note focuses on a specific problem and how I solved it.
+I use this repository to document technical challenges, architectural decisions, and practical solutions I encounter during my active projects. Each note focuses on a specific problem and how I solved it.

@@ -12,6 +12,10 @@ My learnings are categorized based on the technologies I use in my active projec
 * **React Native**
   - [Persisting Auth State with Context API & AsyncStorage](./mobile-development/react-native/persisting-auth-state-context.md)
 
+### [🤖 AI & Machine Learning](./ai-ml)
+* **Optimization**
+  - [Improving GA Convergence with 2-opt Local Search](./ai-ml/optimization/improving-ga-convergence-2opt.md)
+
 ### [🛠️ Tools & Methodology](./tools)
 * **Academic Writing**
   - [LaTeX Plotting with Pgfplots](./tools/academic-writing/latex-plotting-with-pgfplots.md)

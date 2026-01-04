@@ -60,6 +60,6 @@ export const useAuth = () => useContext(AuthContext);
 ```
 
 ### 3. Key Benefits
-**Separation of Concerns:**  Screens (UI) don't need to know about  `AsyncStorage`. They just call  `useAuth()`.
-**Reactive Storage:**  By adding  `[user]`  to the dependency array of  `useEffect`, any change to the user state automatically updates the local storage.
-**Loading State:**  Handling the  `loading`  flag is crucial to prevent the Login screen from briefly appearing (flashing) for an already authenticated user.
+* **Separation of Concerns:**  Screens (UI) don't need to know about  `AsyncStorage`. They just call  `useAuth()`.
+* **Reactive Storage:**  By adding  `[user]`  to the dependency array of  `useEffect`, any change to the user state automatically updates the local storage.
+* **Loading State:**  Handling the  `loading`  flag is crucial to prevent the Login screen from briefly appearing (flashing) for an already authenticated user.

@@ -13,6 +13,8 @@ My learnings are categorized based on the technologies I use in my active projec
   - [Persisting Auth State with Context API & AsyncStorage](./mobile-development/react-native/persisting-auth-state-context.md)
 
 ### [🤖 AI & Machine Learning](./ai-ml)
+* **Multi-Agent Systems**
+    * [MedCase AI: Multi-Agent LLM Orchestration for Clinical Training](./ai-ml/multi-agent-systems/clinical-reasoning-with-multi-agent-llms.md)
 * **Optimization**
   - [Improving GA Convergence with 2-opt Local Search](./ai-ml/optimization/improving-ga-convergence-2opt.md)
 

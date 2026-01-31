@@ -10,6 +10,7 @@ My learnings are categorized based on the technologies I use in my active projec
 
 ### [📱 Mobile Development](./mobile-development)
 * **React Native**
+  - [SpendMate: Relational Persistence and UX Challenges](./mobile-development/react-native/spendmate-architecture-and-ux.md)
   - [Persisting Auth State with Context API & AsyncStorage](./mobile-development/react-native/persisting-auth-state-context.md)
 
 ### [🤖 AI & Machine Learning](./ai-ml)

@@ -3,7 +3,7 @@
 SpendMate is a personal and group expense tracker focused on financial accuracy and seamless debt management. Developing this project involved solving complex relational data problems and implementing a reference-based currency architecture.
 
 <p align="center">
-  <img src="../../assets/images/spendmate-logo.png" width="180" alt="SpendMate Logo">
+  <img src="../../assets/images/spendmate/spendmate-logo.png" width="180" alt="SpendMate Logo">
   <br>
   <em>SpendMate: Smart and Minimalistic Finance Management.</em>
 </p>
